@@ -14,4 +14,4 @@ Der TradingView-Chart zeigt **ASTERUSDT.P** von Binance — ein pulsierender Ver
 Perpetual DEX (ASTERDEX)[https://www.asterdex.com]
 
 
-(Trade History)[
+(Trade History)[https://codexboru.github.io/Asterdex/index.html)
